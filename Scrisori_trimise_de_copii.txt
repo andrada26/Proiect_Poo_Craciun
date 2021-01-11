@@ -1,0 +1,6 @@
+Roman,Andrada,20,Bruxelles,Papusa Dulciuri Ondulator,roz
+Iacob,Vlad,20,Charleroi,Trening Sapca Adidasi,albastru
+Radulescu,Andra,19,Louvain,Pisica Pijamale Parfum,roz
+Codrin,Andrei,19,Namur,Caine Palton Adidasi,albastru
+Roman,Mihaela,18,Ronse,Caine Portofel Tocuri,roz
+Udrescu,Cristina,21,Bruges,,roz
